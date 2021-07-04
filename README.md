@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **creating beautiful and functional websites**
 
-- 🌱 I’m currently learning **JS, React, Node.js, UI design**
+- 🌱 I’m currently learning **JS, React, UI design**
 
 - 👯 I’m looking to collaborate on **front-end projects**
 
