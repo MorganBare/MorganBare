@@ -3,10 +3,6 @@
 
 - 🔭 I’m currently working on **creating beautiful and functional websites**
 
-- 🌱 I’m currently learning **JS, React, UI design**
-
-- 👯 I’m looking to collaborate on **front-end projects**
-
 - 📫 How to reach me **morganjbare@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
