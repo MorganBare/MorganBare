@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Morgan</h1>
 <h3 align="center">A passionate frontend developer from Florida 🌞</h3>
 
-- 👨‍💻 All of my projects are available at [morganjbare.com](morganjbare.com)
+- 👨‍💻 All of my projects are available at [www.morganjbare.com](https://morganjbare.com/)
 
 - 📫 How to reach me **morganjbare@gmail.com**
 
