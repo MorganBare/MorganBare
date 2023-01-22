@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **morganjbare@gmail.com**
 
-- ⚡ Fun fact **I used to get paid to jump prey animals over brightly colored sticks.**
+- ⚡ Fun fact **I used to get paid to jump prey animals over brightly colored sticks 🏇**
 
 - 💻 Professional Googler.
 
