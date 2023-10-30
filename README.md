@@ -8,10 +8,6 @@
        alt="snake" /></a>
 </div>
 
-- 🔭 I’m currently working on **an e-commerce website.**
-
-- 🌱 I’m currently learning **unit testing and typescript.**
-
 - 👯 I’m looking to collaborate on **open source projects.**
 
 - 👨‍💻 All of my projects are available at [morganjbare.com](morganjbare.com)
