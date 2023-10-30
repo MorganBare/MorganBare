@@ -12,8 +12,6 @@
 
 - 👨‍💻 All of my projects are available at [morganjbare.com](morganjbare.com)
 
-- 💬 Ask me about **JS, React, MongoDB.**
-
 - 📫 How to reach me **morganjbare@gmail.com**
 
 - ⚡ Fun fact **I used to get paid to jump prey animals over brightly colored sticks 🏇**
