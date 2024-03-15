@@ -1,12 +1,8 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Morgan.</h1>
+<h1 align="center">Hi, I'm Morgan.</h1>
 <h4 align="center">A Front End Developer applying a diverse background in customer service, problem-solving and critical thinking to help build more intuitive user experiences on the web.</h4>
 </div>
 
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
 
 - 👯 I’m looking to collaborate on **open source projects.**
 
